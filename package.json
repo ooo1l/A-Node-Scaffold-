@@ -3,7 +3,8 @@
   "version": "0.0.10",
   "description": "learn A Node Scaffold",
   "bin": {
-    "ccc1l_npm_learn": "./bin/npm_learn.js"
+    "ccc1l_npm_learn": "./bin/npm_learn.js",
+    "ccc1l_auto_router": "./bin/auto_router.js"
   },
   "main": "index.js",
   "scripts": {
